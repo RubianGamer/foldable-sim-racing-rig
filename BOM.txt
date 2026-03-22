@@ -1,0 +1,49 @@
+the parts you will need for the build. 
+
+extrusion sizes:
+490mm 8040  1x (wheel deck)
+585mm 8040 2x (wheel deck stand)
+700mm 4040 1x (front main frame)
+1285mm 8040 2x (main frame sides)
+620mm 8040 1x (rear main frame
+
+only for fanatec clubsport V3 pedals:
+208mm 4040 2x
+325mm 4040 1x
+
+screws:
+M5x12 BHCS
+M5x7mm heatset insert (8x) (9,5mm max lenght)
+
+M8x60 BHCS
+M8x30 BHCS
+M8x20 BHCS
+M8x16 BHCS
+M8 hex nut
+M8x20mm washer
+M8 roll in nut for 40 series profile
+rubber feet with M8 thread (see cad)
+
+M12xx70mm sholder bolts (2x)
+M12x25mm washer (2x)
+
+M10 hex nut (2x)
+M10x25x1,5mm washer (2x)
+
+(ID,OD,lenght)
+12x18x20 bronze bushing (6x)
+12x18x12 bronze bushing (2x)
+
+brackets:
+4x 40 series L profile corner plates (2 need 10mm hole drilled)
+2x square plate (4x2 holes, 40x80mm spacing, see cad)
+4x 90 deg 40 series corner bracket (4x more for fanatec clubsport V3 pedal frame)
+
+only for side braces:
+245mm 4040 2x
+M5x40 BHCS (8x)
+M5 hex nut (8x)
+M12x35mm sholder bolt (4x)
+M10 hex nut (4x)
+M10x25x1,5mm washer (4x)
+M5x7mm heatset insert (16x) (9,5mm max lenght)
